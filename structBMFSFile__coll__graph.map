@@ -1,0 +1,4 @@
+<map id="BMFSFile" name="BMFSFile">
+<area shape="rect" id="node2" href="$structBMFSDisk.html" title="An abstract disk structure. " alt="" coords="5,5,92,32"/>
+<area shape="rect" id="node3" href="$structBMFSEntry.html" title="An entry within a BMFS directory. " alt="" coords="117,5,207,32"/>
+</map>
